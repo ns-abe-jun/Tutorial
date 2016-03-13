@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 counter++;
                 // counterを2で割った余りが0の時
                 if (counter % 2 == 0) {
-                    textView.setText("Hello");
+                    textView.setText("Anata mo");
                 }
                 // counterを2で割った余りが0以外、つまり1の時
                 else {
