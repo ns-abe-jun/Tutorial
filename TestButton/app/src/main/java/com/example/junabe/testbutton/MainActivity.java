@@ -40,7 +40,8 @@ public class MainActivity extends AppCompatActivity {
                 }
                 // counterを2で割った余りが0以外、つまり1の時
                 else {
-                    textView.setText("World");
+//                    textView.setText("World");
+                      textView.setText("Motosugi");
                 }
             }
         });
